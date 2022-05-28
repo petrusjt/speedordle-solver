@@ -1,0 +1,1 @@
+git+https://github.com/petrusjt/szozat-solver.git#egg=szozat-solver-petrusjt==1.0.1
